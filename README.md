@@ -1,2 +1,2 @@
 # projects
-HTML,CSS,PHP,JAVA
+HTML,CSS,PHP,JAVA,Django framework
